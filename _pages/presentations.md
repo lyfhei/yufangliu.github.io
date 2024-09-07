@@ -10,7 +10,7 @@ redirect_from:
 
 
 Invited Conference/Workshop/Poster Presentations
-========
+-----
 - International Chinese Statistical Association China Conference, Wuhan, China (2024)
 - International Conference on Machine Learning, Vienna, Austria (2024)
 - Joint Statistical Meetings, Portland, OR (2024)
