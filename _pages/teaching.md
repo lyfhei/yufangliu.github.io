@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "tr"
-permalink: /tr/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
