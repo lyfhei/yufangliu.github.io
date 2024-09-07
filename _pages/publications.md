@@ -18,5 +18,5 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 2023
 ========
-- **Fang, L.**, Lee, GG., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365)
+- **Fang, L.**, Lee, GG., Zhai, X. (2023) [Using gpt-4 to augment unbalanced data for automatic scoring](https://arxiv.org/pdf/2310.18365), ArXiv.
 - Wu, S., **Fang L.**, Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://par.nsf.gov/servlets/purl/10494748), IEEE Transactions on Smart Grid.
