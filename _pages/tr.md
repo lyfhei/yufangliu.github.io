@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "tr"
+permalink: /tr/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV [here](https://drive.google.com/file/d/10A3jiFdpKxV7dnbHToZCWo8CseUom2aX/view?usp=sharing).
+xxx
 
 
 
