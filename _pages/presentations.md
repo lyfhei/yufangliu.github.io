@@ -11,5 +11,5 @@ redirect_from:
 
 Invited Conference/Workshop/Poster Presentations
 -------
--- Poster Presentation, Georgia Statistics Day, Georgia Institute of Technology
+-- Georgia Statistics Day, Georgia Institute of Technology, Atlanta, GA (2023)
 
