@@ -1,5 +1,5 @@
 ---
-collection: publications
+collection: teaching
 ---
 
 ### Invited Conference/Workshop/Poster Presentations
