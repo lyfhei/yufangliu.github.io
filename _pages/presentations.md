@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching Assistant
+Invited Conference/Workshop/Poster Presentations
 -------
 - STAT 4365/6365 Modern Statistical Programming, Fall 2024
 - STAT 8530 Advanced Statistical Inference I, Spring 2023
