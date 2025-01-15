@@ -1,5 +1,9 @@
----
-title: "Teaching assistant"
----
+### Invited Conference/Workshop/Poster Presentations
 
-STAT 8350 The theory and methodology of Bayesian statistical inference, Spring 2025
+- **International Chinese Statistical Association China Conference**, Wuhan, China (2024)
+- **International Conference on Machine Learning**, Vienna, Austria (2024)
+- **Joint Statistical Meetings**, Portland, OR (2024)
+- **Georgia Statistics Day**, Georgia Institute of Technology, Atlanta, GA (2023)
+- **International Chinese Statistical Association China Conference**, Chengdu, China (2023)
+- **Georgia Statistics Day**, University of Georgia, Athens, GA (2022)
+- **Georgia Statistics Day**, Emory University, Atlanta, GA (2021)
