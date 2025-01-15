@@ -1,3 +1,7 @@
+---
+collection: publications
+---
+
 ### Invited Conference/Workshop/Poster Presentations
 
 - **International Chinese Statistical Association China Conference**, Wuhan, China (2024)
