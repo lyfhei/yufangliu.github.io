@@ -11,7 +11,7 @@ location: "City, Country"
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
-======
+====== STAT 8350 The theory and methodology of Bayesian statistical inference, Spring 2025
 
 Heading 2
 ======
