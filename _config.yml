@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Yufang Liu"
   #pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : 
+  #"Short biography for the left-hand sidebar"
   location         : "Athens, GA"
   employer         : "University of Georgia"
   uri              : # URL
