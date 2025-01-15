@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my CV [here]().
+Please find my CV [here](../assets/CV-Yufang_Liu.pdf).
 
 
 
